@@ -1,0 +1,11 @@
+{
+  "name": "IBSI",
+  "short_name": "IBSI",
+  "icons": [
+    { "src": "/favicon_192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/app_icon_512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#0F1E2E",
+  "background_color": "#FFFFFF",
+  "display": "standalone"
+}
